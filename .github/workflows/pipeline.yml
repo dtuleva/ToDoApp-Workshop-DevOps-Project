@@ -62,6 +62,6 @@ jobs:
         context: ./backend
         file: ./backend/Dockerfile
         push: true
-        tags: dtuleva/todoapp-backend:$letest
+        tags: dtuleva/todoapp-backend:latest
 
 
